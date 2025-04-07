@@ -1,0 +1,5 @@
+192.168.1.15 debian-server
+192.168.1.14 ubuntu-server
+192.168.1.18 redhat-server
+192.168.1.13 master-server
+192.168.1.12 kali-server
